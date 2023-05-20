@@ -1,7 +1,24 @@
- /* font-family: 'Bodoni Moda', serif; */
+   /* CSS DA PÁGINA HOTEL */
+ 
+    /* font-family: 'Bodoni Moda', serif; */
+    /* font-family: 'Cardo', serif; */
     /* font-family: 'Fjalla One', sans-serif; */
     /* font-family: 'Lobster', cursive; */
     /* font-family: 'Pathway Gothic One', sans-serif; */
     /* font-family: 'PT Serif', serif; */
     /* font-family: 'Roboto', sans-serif; */
     /* font-family: 'Yantramanav', sans-serif;  */
+
+main h1{
+   color: #e2bc7b;
+}
+
+
+main p{
+
+  text-align: center;
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+}
+
+
